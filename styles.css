@@ -11,6 +11,12 @@ body {
 h1, h2 {
     color: #fff !important;
 }
+h1 {
+    font-size: 2.3rem !important;
+}
+h2 {
+    font-size: 1.3rem !important;
+}
 
 .todo-item {
     display: flex;
